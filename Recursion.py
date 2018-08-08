@@ -1,10 +1,6 @@
-# At the top of every file, always include the following information
-# Author(s) name:
-# SPIS login(s):
-# Assignment: Week 2 Recursion and Induction
+# Author(s) name: Jim Lee, Karan Lala
 # Date: August 25, 2014
-# 
-# Description: Recursive methods for doing various things
+# Description: Functions for drawing fractals and other recursive patterns
 
 from PIL import Image, ImageDraw
 import math
